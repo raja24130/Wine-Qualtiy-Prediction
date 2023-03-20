@@ -1,6 +1,5 @@
-imprt pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-scikit-learn==1.1.2
-from sklearn.ensemble import RandomForestClassifier
+pandas: Used for data manipulation and analysis
+numpy: Used for numerical operations on the data
+scikit-learn: Used for machine learning algorithms such as linear regression, random forest, etc.
+seaborn 
+matplotlib: Used for data visualization
