@@ -1,5 +1,5 @@
-pandas: Used for data manipulation and analysis
-numpy: Used for numerical operations on the data
-scikit-learn: Used for machine learning algorithms such as linear regression, random forest, etc.
+pandas
+numpy
+scikit-learn
 seaborn 
-matplotlib: Used for data visualization
+matplotlib
