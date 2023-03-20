@@ -2,6 +2,5 @@ imprt pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-sklearn
 import scikit-learn
 from sklearn.ensemble import RandomForestClassifier
