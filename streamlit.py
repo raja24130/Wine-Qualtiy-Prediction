@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from scikit-learn.ensemble import RandomForestClassifier
+
 #app heading
 st.write("""
 # Wine Quality Prediction App
